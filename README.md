@@ -27,9 +27,9 @@ tengxianglin23@gmail.com
 
 ## Usage
 
-1. Adjust parameters in `entropy_plot.py`.
+1. Adjust parameters in `qsf_plot.py`.
 2. Run the script:  
-   `python entropy_plot.py`
+   `python qsf_plot.py`
 3. Output plots: `entropy_plots.pdf/svg`,
    `fidelity_plots.pdf/svg`.
 
